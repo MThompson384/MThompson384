@@ -16,7 +16,7 @@ During my time recieveing my Masters of Science in Business Analytics (MSBA) pro
 
 <h3>🎯Projects </h3>
 
-<h3>📍pin:SQL Data Warehouse & ERD Design</h3>
+<h3>📍SQL Data Warehouse & ERD Design</h3>
 -Constructed entity-relationship diagram (ERD) and coded in SQL a data warehouse. 
 
 
