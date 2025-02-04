@@ -17,12 +17,17 @@ During my time recieveing my Masters of Science in Business Analytics (MSBA) pro
 <h3>🎯Projects </h3>
 
 <h3>📍SQL Data Warehouse & ERD Design</h3>
--Constructed entity-relationship diagram (ERD) and coded in SQL a data warehouse. 
 
+* Constructed entity-relationship diagram (ERD) and coded in SQL a data warehouse.
+* [Project Coding](https://github.com/MThompson384/SQL-Coding)
+
+<h3>📍R-Programming Machine Learning Application </h3>
+
+* My team, executed a exploratory data analysis (EDA) using feature engineering to play the game of Life. 
+* In this game, we compared multiple factors to determine if education, age, gender, and location played a huge role in the difference in salaries. To also communicate the significance of our finds we created an interactive data visual for each of our guest that we presented to. 
+* [Game of Life](https://github.com/MThompson384/R-Programming-Machine-Learning-Application/blob/main/Game%20of%20Life.ipynb)
 
 <h2> 🤳 Connect with me:</h2>
 
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-https://www.linkedin.com/in/micah-thompson-/
+[linkedin](https://www.linkedin.com/in/micah-thompson-/)
 
