@@ -28,8 +28,9 @@ During my time recieveing my Masters of Science in Business Analytics (MSBA) pro
 * [Game of Life](https://github.com/MThompson384/R-Programming-Machine-Learning-Application/blob/main/Game%20of%20Life.ipynb)
 
 <h3>📍Big Data </h3>
-
-* In my Big Data Assignment 3, I combined my passion for investing with technical skills by scraping data from Yahoo Finance to create a dataset on top exchange-traded funds (ETFs).
+* In Assignment 1, I developed a data analysis framework to extract daily stock information via an API key. I pulled stock prices and metrics, enabling real-time graph visualizations. Additionally, I implemented a MySQL database, creating tables and executing queries for efficient data management.
+* [Stock API Key Data Retrival](https://github.dev/MThompson384/Big-Data/blob/main/Assignment%201-%20Retrieving%20data%20from%20an%20AP.ipynb)
+* In my Big Data Assignment 2, I combined my passion for investing with technical skills by scraping data from Yahoo Finance to create a dataset on top exchange-traded funds (ETFs).
 * [Web Scraping - Top ETFs](https://github.com/MThompson384/Big-Data/blob/main/Assignment%202-Web%20scraping.py)
 
 <h2> 🤳 Connect with me:</h2>
