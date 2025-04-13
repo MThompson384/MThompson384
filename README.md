@@ -1,6 +1,7 @@
 <h1>Hi, I am Micah! 
 
 <h2>✨About me:</h2>
+
 <br>🎓**My Academic Journey**:<br>
 My academic journey began at Norfolk State University, where I earned a Bachelor's degree in Business with a concentration in Management. During this time, I served as the Vice President of Membership Communication for the Golden Key International Honour Society, coordinating initiatives to engage current and potential members and promoting activities across campus. I was also a member of the National Association of Black Accountants (NABA). These leadership roles, along with three internships—two at Ernst & Young and one at TowneBank—equipped me with valuable skills for leadership in complex, fast-paced environments. Currently, I am pursuing my dream opportunity by completing my Master of Science in Business Analytics at the College of William & Mary, where I serve as the Co-President of the MSBA Council. With this opportunity, I am excited to leverage my passion for data to drive strategic decisions and create impactful solutions across business landscapes.
 
