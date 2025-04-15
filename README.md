@@ -23,7 +23,7 @@ During my time recieveing my Masters of Science in Business Analytics (MSBA) pro
 
 <h3>📍R-Programming Machine Learning Application </h3>
 
-* My team, executed a exploratory data analysis (EDA) using feature engineering to play the game of Life. 
+* My team and I, executed a exploratory data analysis (EDA) using feature engineering to play the game of Life. 
 * In this game, we compared multiple factors to determine if education, age, gender, and location played a huge role in the difference in salaries. To also communicate the significance of our finds we created an interactive data visual for each of our guest that we presented to. 
 * [Game of Life](https://github.com/MThompson384/R-Programming-Machine-Learning-Application/blob/main/Game%20of%20Life.ipynb)
 
@@ -33,6 +33,11 @@ During my time recieveing my Masters of Science in Business Analytics (MSBA) pro
 * [Stock API Key Data Retrival](https://github.dev/MThompson384/Big-Data/blob/main/Assignment%201-%20Retrieving%20data%20from%20an%20AP.ipynb)
 * In my Big Data Assignment 2, I combined my passion for investing with technical skills by scraping data from Yahoo Finance to create a dataset on top exchange-traded funds (ETFs).
 * [Web Scraping - Top ETFs](https://github.com/MThompson384/Big-Data/blob/main/Assignment%202-Web%20scraping.py)
+
+<h3>📍AI </h3>
+
+*My team and I, executed a analysis into the impact of AI in supply chain. Specifically, researching the company Bearing.AI, below is the link to our Github repository. This will include a description of the company, project, case article, Carbon Emission calculator, and code.
+* [Bearing.AI-Project](https://github.com/MThompson384/Bearing.AI-Project)
 
 <h2> 🤳 Connect with me:</h2>
 
