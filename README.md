@@ -36,7 +36,7 @@ During my time recieveing my Masters of Science in Business Analytics (MSBA) pro
 
 <h3>📍AI </h3>
 
-*My team and I, executed a analysis into the impact of AI in supply chain. Specifically, researching the company Bearing.AI, below is the link to our Github repository. This will include a description of the company, project, case article, Carbon Emission calculator, and code.
+* My team and I, executed a analysis into the impact of AI in supply chain. Specifically, researching the company Bearing.AI, below is the link to our Github repository. This will include a description of the company, project, case article, Carbon Emission calculator, and code.
 * [Bearing.AI-Project](https://github.com/MThompson384/Bearing.AI-Project)
 
 <h2> 🤳 Connect with me:</h2>
