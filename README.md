@@ -38,6 +38,9 @@ During my time recieveing my Masters of Science in Business Analytics (MSBA) pro
 
 <h3>📍AI </h3>
 
+*This assignment creates a neural network in TensorFlow that predicts wine quality from chemical properties while demonstrating implementation of activation functions and regression analysis techniques.
+* [Python Functions & DL for Regression](https://github.com/MThompson384/Artificial-Intelligence/blob/main/AI_Python_Functions_%26_DL_for_Regression.ipynb)
+
 * My team and I, executed a analysis into the impact of AI in supply chain. Specifically, researching the company Bearing.AI, below is the link to our Github repository. This will include a description of the company, project, case article, Carbon Emission calculator, and code.
 * [Bearing.AI-Project](https://github.com/MThompson384/Bearing.AI-Project)
 
