@@ -33,6 +33,7 @@ During my time recieveing my Masters of Science in Business Analytics (MSBA) pro
 * [Stock API Key Data Retrival](https://github.dev/MThompson384/Big-Data/blob/main/Assignment%201-%20Retrieving%20data%20from%20an%20AP.ipynb)
 * In this assignment, I combined my passion for investing with technical skills by scraping data from Yahoo Finance to create a dataset on top exchange-traded funds (ETFs).
 * [Web Scraping - Top ETFs](https://github.com/MThompson384/Big-Data/blob/main/Assignment%202-Web%20scraping.py)
+* [Top ETFs CSV](https://github.com/MThompson384/Big-Data/blob/main/Top_ETFs_Dataset.csv)
 * In this In this exercise, I demonstrated the integration of Spark and SQL for data analysis. I created a SparkSession, loaded the AmazonSales.csv dataset as a DataFrame, and registered it as a temporary view to enable SQL queries.
 * [SQL Analytics on Spark DataFrames](https://github.com/MThompson384/Big-Data/blob/main/Assignment%206-Spark.ipynb)
 
