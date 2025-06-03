@@ -16,7 +16,7 @@ I turn complex business data into actionable insights. Currently building analyt
 ## 💼 Professional Experience
 
 ### Ernst & Young | Consultant
-- **Led SAP integration projects** for M&A clients, managing cross-functional teams and presenting findings to C-suite leadership
+- **Led SAP integration projects**, managing cross-functional teams and presenting findings to C-suite leadership
 - **Directed FP&A Technical Roadmap Assessment** with 5-member team, implementing risk frameworks that enhanced profitability
 - **Specialized in mergers & acquisitions** analytics and regulatory compliance solutions
 
@@ -28,7 +28,7 @@ I turn complex business data into actionable insights. Currently building analyt
 
 ## 🎓 Education & Leadership
 
-**Master of Science in Business Analytics** | College of William & Mary | *Current*
+**Master of Science in Business Analytics** | College of William & Mary
 - **Co-President, MSBA Council** - Leading student initiatives and industry partnerships
 
 **Bachelor of Business (Management)** | Norfolk State University
@@ -96,7 +96,7 @@ Team analysis of AI impact in supply chain management
 
 ## 🎯 Currently Seeking
 
-**Analytics opportunities** across industries where I can:
+**Analytic opportunities** across industries where I can:
 - Apply data science skills to solve real business problems
 - Learn new domains and expand my analytical toolkit
 - Collaborate with diverse teams and stakeholders
