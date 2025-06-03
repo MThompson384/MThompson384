@@ -4,7 +4,6 @@
 
 I turn complex business data into actionable insights. Currently building analytics platforms and excited to apply my skills across new industries and challenges.
 
----
 
 ## 🚀 What I Do
 
@@ -12,7 +11,7 @@ I turn complex business data into actionable insights. Currently building analyt
 
 **Recent highlight:** Built a production sustainability analytics platform that automatically detects data quality issues (like when someone enters 2,470 gallons instead of 247) before they reach executive reports.
 
----
+
 
 ## 💼 Professional Experience
 
@@ -25,7 +24,7 @@ I turn complex business data into actionable insights. Currently building analyt
 - Gained hands-on experience in **banking operations** and **risk assessment**
 - Developed analytical skills in **financial data processing** and **regulatory reporting**
 
----
+
 
 ## 🎓 Education & Leadership
 
@@ -36,7 +35,7 @@ I turn complex business data into actionable insights. Currently building analyt
 - **VP of Membership Communication, Golden Key International Honour Society**
 - **Member, National Association of Black Accountants (NABA)**
 
----
+
 
 ## 🛠️ Technical Arsenal
 
@@ -51,7 +50,7 @@ I turn complex business data into actionable insights. Currently building analyt
 - **Financial Modeling:** FP&A, risk assessment, regulatory compliance
 - **Project Management:** Cross-functional team leadership, stakeholder communication
 
----
+
 
 ## 🎯 Featured Projects
 
@@ -81,7 +80,7 @@ Team analysis of AI impact in supply chain management
 - **Developed carbon emission calculator** for sustainability tracking
 - **Created comprehensive case study** with actionable recommendations
 
----
+
 
 ## 🌟 What Sets Me Apart
 
@@ -93,7 +92,7 @@ Team analysis of AI impact in supply chain management
 
 **My superpower:** Taking complex business challenges and finding the story hidden in the data - then presenting insights that actually get used. I'm eager to apply these skills across new industries and learn from experienced teams.
 
----
+
 
 ## 🎯 Currently Seeking
 
@@ -104,12 +103,11 @@ Team analysis of AI impact in supply chain management
 - Grow from data exploration to strategic business impact
 - Gain hands-on experience in emerging analytics technologies
 
----
+
 
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micah-thompson-/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 **Open to opportunities in:** Analytics • Business Intelligence • Data Science • Market Research • Operations Analytics • Financial Analysis • Any industry eager to teach and grow talent
 
