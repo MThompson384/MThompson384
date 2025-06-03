@@ -54,7 +54,7 @@ I turn complex business data into actionable insights. Currently building analyt
 
 ## 🎯 Featured Projects
 
-### 🌱 [Production Sustainability Analytics Platform](https://github.com/MThompson384/production-sustainability-analytics)
+### 🌱 [Production Sustainability Analytics Platform](https://github.com/MThompson384/Sustainability-Analytics)
 Netflix-style dashboard for entertainment industry sustainability tracking
 - **Built automated data quality control** that detects outliers and prevents reporting errors
 - **Calculates environmental impact** using EPA emission factors
