@@ -4,6 +4,7 @@
 
 I turn complex business data into actionable insights. Currently building analytics platforms and excited to apply my skills across new industries and challenges.
 
+---
 
 ## 🚀 What I Do
 
@@ -11,20 +12,20 @@ I turn complex business data into actionable insights. Currently building analyt
 
 **Recent highlight:** Built a production sustainability analytics platform that automatically detects data quality issues (like when someone enters 2,470 gallons instead of 247) before they reach executive reports.
 
-
+---
 
 ## 💼 Professional Experience
 
 ### Ernst & Young | Consultant
 - **Led SAP integration projects**, managing cross-functional teams and presenting findings to C-suite leadership
 - **Directed FP&A Technical Roadmap Assessment** with 5-member team, implementing risk frameworks that enhanced profitability
-- **Specialized in mergers & acquisitions** analytics and regulatory compliance solutions
+- **Specialized in financial systems** analytics and regulatory compliance solutions
 
 ### TowneBank | Financial Operations Intern
 - Gained hands-on experience in **banking operations** and **risk assessment**
 - Developed analytical skills in **financial data processing** and **regulatory reporting**
 
-
+---
 
 ## 🎓 Education & Leadership
 
@@ -35,7 +36,7 @@ I turn complex business data into actionable insights. Currently building analyt
 - **VP of Membership Communication, Golden Key International Honour Society**
 - **Member, National Association of Black Accountants (NABA)**
 
-
+---
 
 ## 🛠️ Technical Arsenal
 
@@ -50,7 +51,7 @@ I turn complex business data into actionable insights. Currently building analyt
 - **Financial Modeling:** FP&A, risk assessment, regulatory compliance
 - **Project Management:** Cross-functional team leadership, stakeholder communication
 
-
+---
 
 ## 🎯 Featured Projects
 
@@ -80,30 +81,30 @@ Team analysis of AI impact in supply chain management
 - **Developed carbon emission calculator** for sustainability tracking
 - **Created comprehensive case study** with actionable recommendations
 
-
+---
 
 ## 🌟 What Sets Me Apart
 
 **I speak both data and business.** My unique combination of:
-- **Financial consulting experience** (EY client work, M&A projects)
+- **Financial consulting experience** (EY client work, SAP integration projects)
 - **Advanced analytics skills** (MS Business Analytics, AI/ML expertise) 
 - **Leadership proven track record** (Student government, professional project management)
 - **Industry focus** (Entertainment, finance, supply chain optimization)
 
 **My superpower:** Taking complex business challenges and finding the story hidden in the data - then presenting insights that actually get used. I'm eager to apply these skills across new industries and learn from experienced teams.
 
-
+---
 
 ## 🎯 Currently Seeking
 
-**Analytic opportunities** across industries where I can:
+**Analytics opportunities** across industries where I can:
 - Apply data science skills to solve real business problems
 - Learn new domains and expand my analytical toolkit
 - Collaborate with diverse teams and stakeholders
 - Grow from data exploration to strategic business impact
 - Gain hands-on experience in emerging analytics technologies
 
-
+---
 
 ## 🤝 Let's Connect
 
