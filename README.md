@@ -1,52 +1,105 @@
-<h1>Hi, I am Micah! 
+Hi, I'm Micah! 👋
+Data Analyst & Financial Consultant | MS Business Analytics Candidate | Former EY Consultant
+I turn complex business data into actionable insights. Currently building analytics platforms and excited to apply my skills across new industries and challenges.
 
-<h2>✨About me:</h2>
+🚀 What I Do
+The intersection of finance and data science. I help companies make smarter decisions by transforming scattered spreadsheets into strategic dashboards that executives actually use.
+Recent highlight: Built a production sustainability analytics platform that automatically detects data quality issues (like when someone enters 2,470 gallons instead of 247) before they reach executive reports.
 
-<br>🎓**My Academic Journey**:<br>
-My academic journey began at Norfolk State University, where I earned a Bachelor's degree in Business with a concentration in Management. During this time, I served as the Vice President of Membership Communication for the Golden Key International Honour Society, coordinating initiatives to engage current and potential members and promoting activities across campus. I was also a member of the National Association of Black Accountants (NABA). These leadership roles, along with three internships—two at Ernst & Young and one at TowneBank—equipped me with valuable skills for leadership in complex, fast-paced environments. Currently, I am pursuing my dream opportunity by completing my Master of Science in Business Analytics at the College of William & Mary, where I serve as the Co-President of the MSBA Council. With this opportunity, I am excited to leverage my passion for data to drive strategic decisions and create impactful solutions across business landscapes.
+💼 Professional Experience
+Ernst & Young | Consultant
 
-<br>💼**Expertise in Practice**:<br>
-As a consultant at Ernst & Young, I played a pivotal role in driving impactful projects in mergers & acquisitions and SAP integrations. Collaborating with cross-functional teams, I contributed to complex analyses and crafted innovative solutions that optimized processes and enhanced client satisfaction. My experience reinforced my ability to navigate challenges in fast-paced environments while fostering teamwork and communication. Prior to that, I gained valuable insights during my internships. At TowneBank, I engaged in various financial operations, honing my analytical skills and understanding of banking practices. My time with Ernst & Young included overseeing critical engagements that involved managing client documentation and conducting risk assessments, allowing me to deepen my financial expertise and learn the intricacies of regulatory compliance. These experiences laid the foundation for my current pursuit of a Master of Science in Business Analytics at the College of William & Mary.
+Led SAP integration projects for M&A clients, managing cross-functional teams and presenting findings to C-suite leadership
+Directed FP&A Technical Roadmap Assessment with 5-member team, implementing risk frameworks that enhanced profitability
+Specialized in mergers & acquisitions analytics and regulatory compliance solutions
 
-<br>🌼**My Competitive Edge**:<br>
-I am a strong contender for this internship due to my extensive project management experience and results-oriented approach. I successfully co-led an SAP integration project, directing updates, presenting findings to leadership, and training team members—all while developing pricing plans and ensuring project alignment with client objectives. Additionally, during the FP&A Technical Roadmap Assessment, I collaborated with a five-member team to conduct a comprehensive risk assessment, implement "wavespace" training, and create a strategic timeline that enhanced profitability. My proven ability to deliver impactful solutions and optimize financial systems positions me as an exceptional candidate for this opportunity. I look forward to opportunities that will enhance my professional growth and wisdom across various areas of business.
+TowneBank | Financial Operations Intern
 
-<h2>📈Strategic Data Solutions in MSBA</h2>
-During my time recieveing my Masters of Science in Business Analytics (MSBA) program, I have had the opportunity to work on several data-driven projects that have increased my Data Science modeling, business strategy, and more. 
+Gained hands-on experience in banking operations and risk assessment
+Developed analytical skills in financial data processing and regulatory reporting
 
-<h3>🎯Projects </h3>
 
-<h3>📍SQL Data Warehouse & ERD Design</h3>
+🎓 Education & Leadership
+Master of Science in Business Analytics | College of William & Mary | Current
 
-* Constructed entity-relationship diagram (ERD) and coded in SQL a data warehouse.
-* [Project Coding](https://github.com/MThompson384/SQL-Coding)
+Co-President, MSBA Council - Leading student initiatives and industry partnerships
 
-<h3>📍R-Programming Machine Learning Application </h3>
+Bachelor of Business (Management) | Norfolk State University
 
-* My team and I, executed a exploratory data analysis (EDA) using feature engineering to play the game of Life. 
-* In this game, we compared multiple factors to determine if education, age, gender, and location played a huge role in the difference in salaries. To also communicate the significance of our finds we created an interactive data visual for each of our guest that we presented to. 
-* [Game of Life](https://github.com/MThompson384/R-Programming-Machine-Learning-Application/blob/main/Game%20of%20Life.ipynb)
+VP of Membership Communication, Golden Key International Honour Society
+Member, National Association of Black Accountants (NABA)
 
-<h3>📍Big Data </h3>
 
-* In this assignment, I developed a data analysis framework to extract daily stock information via an API key. I pulled stock prices and metrics, enabling real-time graph visualizations. Additionally, I implemented a MySQL database, creating tables and executing queries for efficient data management.
-* [Stock API Key Data Retrival](https://github.dev/MThompson384/Big-Data/blob/main/Assignment%201-%20Retrieving%20data%20from%20an%20AP.ipynb)
-* In this assignment, I combined my passion for investing with technical skills by scraping data from Yahoo Finance to create a dataset on top exchange-traded funds (ETFs).
-* [Web Scraping - Top ETFs](https://github.com/MThompson384/Big-Data/blob/main/Assignment%202-Web%20scraping.py)
-* [Final Product: Top ETFs CSV](https://github.com/MThompson384/Big-Data/blob/main/Top_ETFs_Dataset.csv)
-* In this In this exercise, I demonstrated the integration of Spark and SQL for data analysis. I created a SparkSession, loaded the AmazonSales.csv dataset as a DataFrame, and registered it as a temporary view to enable SQL queries.
-* [SQL Analytics on Spark DataFrames](https://github.com/MThompson384/Big-Data/blob/main/Assignment%206-Spark.ipynb)
+🛠️ Technical Arsenal
+Data Science & Analytics:
 
-<h3>📍AI </h3>
+Languages: Python, R, SQL, Spark
+Visualization: Streamlit, Plotly, Tableau, Advanced Excel
+Databases: MySQL, Big Data frameworks
+AI/ML: TensorFlow, Neural Networks, Time Series Analysis
 
-* This assignment creates a neural network in TensorFlow that predicts wine quality from chemical properties while demonstrating implementation of activation functions and regression analysis techniques.
-* [Python Functions & DL for Regression](https://github.com/MThompson384/Artificial-Intelligence/blob/main/AI_Python_Functions_%26_DL_for_Regression.ipynb)
-* This assignment develops a custom entropy function and RNN model that processes time-lagged financial indicators to predict NYSE trading volumes, demonstrating information theory principles and sequence modeling for time series analysis.
-* [AI Language](https://github.com/MThompson384/Artificial-Intelligence/blob/main/AI_Language.ipynb)
-* My team and I, executed a analysis into the impact of AI in supply chain. Specifically, researching the company Bearing.AI, below is the link to our Github repository. This will include a description of the company, project, case article, Carbon Emission calculator, and code.
-* [Bearing.AI-Project](https://github.com/MThompson384/Bearing.AI-Project)
+Business Intelligence:
 
-<h2> 🤳 Connect with me:</h2>
+Enterprise Systems: SAP integration and optimization
+Financial Modeling: FP&A, risk assessment, regulatory compliance
+Project Management: Cross-functional team leadership, stakeholder communication
 
-[linkedin](https://www.linkedin.com/in/micah-thompson-/)
 
+🎯 Featured Projects
+🌱 Production Sustainability Analytics Platform
+Netflix-style dashboard for entertainment industry sustainability tracking
+
+Built automated data quality control that detects outliers and prevents reporting errors
+Calculates environmental impact using EPA emission factors
+Identifies cost optimization opportunities worth $20K+ annually
+Stack: Python, Streamlit, MySQL, Plotly
+
+📈 Financial Time Series Prediction
+AI-powered NYSE trading volume prediction using RNN models
+
+Developed custom entropy functions for information theory analysis
+Implemented sequence modeling for time-lagged financial indicators
+Stack: TensorFlow, Python, Advanced statistical modeling
+
+📊 ETF Market Analysis Platform
+Automated data collection and analysis for investment insights
+
+Web scraped Yahoo Finance for real-time ETF data
+Built API integration for daily stock information retrieval
+Created MySQL database with optimized queries for financial data
+Stack: Python, MySQL, API integration, Web scraping
+
+🤖 AI Supply Chain Optimization
+Team analysis of AI impact in supply chain management
+
+Researched Bearing.AI implementation and business impact
+Developed carbon emission calculator for sustainability tracking
+Created comprehensive case study with actionable recommendations
+
+
+🌟 What Sets Me Apart
+I speak both data and business. My unique combination of:
+
+Financial consulting experience (EY client work, M&A projects)
+Advanced analytics skills (MS Business Analytics, AI/ML expertise)
+Leadership proven track record (Student government, professional project management)
+Industry focus (Entertainment, finance, supply chain optimization)
+
+My superpower: Taking complex business challenges and finding the story hidden in the data - then presenting insights that actually get used. I'm eager to apply these skills across new industries and learn from experienced teams.
+
+🎯 Currently Seeking
+Analytics opportunities across industries where I can:
+
+Apply data science skills to solve real business problems
+Learn new domains and expand my analytical toolkit
+Collaborate with diverse teams and stakeholders
+Grow from data exploration to strategic business impact
+Gain hands-on experience in emerging analytics technologies
+
+
+🤝 Let's Connect
+Show Image
+Show Image
+Open to opportunities in: Analytics • Business Intelligence • Data Science • Market Research • Operations Analytics • Financial Analysis • Any industry eager to teach and grow talent
+
+"The best insights are the ones that make executives say 'How did we not see this before?' - and then take action."
