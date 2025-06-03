@@ -29,7 +29,7 @@ I turn complex business data into actionable insights. Currently building analyt
 
 ## 🎓 Education & Leadership
 
-**Master of Science in Business Analytics** | College of William & Mary
+**Master of Science in Business Analytics** | College of William & Mary | *Current*
 - **Co-President, MSBA Council** - Leading student initiatives and industry partnerships
 
 **Bachelor of Business (Management)** | Norfolk State University
@@ -109,6 +109,7 @@ Team analysis of AI impact in supply chain management
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micah-thompson-/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 **Open to opportunities in:** Analytics • Business Intelligence • Data Science • Market Research • Operations Analytics • Financial Analysis • Any industry eager to teach and grow talent
 
