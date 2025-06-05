@@ -17,12 +17,8 @@ I turn complex business data into actionable insights. Currently building analyt
 
 ### Ernst & Young | Consultant
 - **Led SAP integration projects**, managing cross-functional teams and presenting findings to C-suite leadership
-- **Directed FP&A Technical Roadmap Assessment** with 5-member team, implementing risk frameworks that enhanced profitability
-- **Specialized in mergers & acquisitions** analytics and regulatory compliance solutions
-
-### TowneBank | Financial Operations Intern
-- Gained hands-on experience in **banking operations** and **risk assessment**
-- Developed analytical skills in **financial data processing** and **regulatory reporting**
+- **Assisted FP&A Technical Roadmap Assessment** with 5-member team, implementing risk frameworks that enhanced profitability
+- **Cordinated merger & acquisition** analytics and regulatory compliance solutions
 
 
 
