@@ -105,7 +105,7 @@ Team analysis of AI impact in supply chain management
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micah-thompson-/)
 
-**Open to opportunities in:** Analytics • Business Intelligence • Data Science • Market Research • Operations Analytics • Financial Analysis • Any industry eager to teach and grow talent
+**Open to opportunities in:** Analytics • Business Intelligence • Data Science •  Operations Analytics • Financial Analysis • Any industry eager to teach and grow talent
 
 ---
 
