@@ -50,14 +50,6 @@ I turn complex business data into actionable insights. Currently building analyt
 
 ## 🎯 Featured Projects
 
-### 💰 [Project Financial Management System](https://github.com/MThompson384/Financial_Management_System)
-Oracle-style enterprise dashboard for comprehensive project portfolio management
-- **Built automated EAC calculations** using PMI standard formulas for accurate budget forecasting
-- **Implements transaction controls** with statistical validation and 94%+ data quality scores
-- **Tracks $195K portfolio budget** across multiple concurrent projects with real-time variance analysis
-- **Demonstrates Oracle job requirements:** Multi-project tracking, milestone management, invoicing & billing
-- **Stack:** Python, R, MySQL, Streamlit, Plotly
-
 ### 🌱 [Production Sustainability Analytics Platform](https://github.com/MThompson384/Sustainability-Analytics)
 Netflix-style dashboard for entertainment industry sustainability tracking
 - **Built automated data quality control** that detects outliers and prevents reporting errors
