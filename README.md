@@ -62,12 +62,13 @@ AI-powered NYSE trading volume prediction using RNN models
 - **Implemented sequence modeling** for time-lagged financial indicators
 - **Stack:** TensorFlow, Python, Advanced statistical modeling
 
-### 📊 [ETF Market Analysis Platform](https://github.com/MThompson384/Big-Data)
-Automated data collection and analysis for investment insights
-- **Web scraped Yahoo Finance** for real-time ETF data
-- **Built API integration** for daily stock information retrieval
-- **Created MySQL database** with optimized queries for financial data
-- **Stack:** Python, MySQL, API integration, Web scraping
+### 📊 [Big Data Analytics & Processing](https://github.com/MThompson384/Big-Data)
+Course assignments exploring data collection, processing, and analysis techniques
+- **Web Scraping with Selenium**  Automated ETF data extraction from Yahoo Finance
+- **Apache Spark SQL Analysis** Large-scale Amazon sales data processing and insights
+- **API Integration & Data Retrieval** Stock market data collection and time series analysis
+- **Database Management** MySQL optimization for financial datasets
+- **Stack:** Python, Selenium, PySpark, SQL, APIs, Pandas
 
 ### 🤖 [AI Supply Chain Optimization](https://github.com/MThompson384/Bearing.AI-Project)
 Team analysis of AI impact in supply chain management
