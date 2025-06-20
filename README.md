@@ -56,11 +56,13 @@ Netflix-style dashboard for entertainment industry sustainability tracking
 - **Identifies cost optimization opportunities** worth $20K+ annually
 - **Stack:** Python, Streamlit, MySQL, Plotly
 
-### 📈 [Financial Time Series Prediction](https://github.com/MThompson384/Artificial-Intelligence)
-AI-powered NYSE trading volume prediction using RNN models
-- **Developed custom entropy functions** for information theory analysis
-- **Implemented sequence modeling** for time-lagged financial indicators
-- **Stack:** TensorFlow, Python, Advanced statistical modeling
+### 🧠 [AI-Powered Financial Prediction Platform](https://github.com/MThompson384/Artificial-Intelligence)
+Course assignments exploring machine learning models for market analysis and forecasting
+- **Built deep neural networks** with TensorFlow/Keras for wine quality regression
+- **Developed RNN time series models** for NYSE trading volume prediction
+- **Created custom entropy functions** for information theory and binary classification
+- **Implemented advanced preprocessing** with standardization and sequence modelin
+-  **Stack:** TensorFlow, Keras, Python, Neural Networks, Time Series Analysis
 
 ### 📊 [Big Data Analytics & Processing](https://github.com/MThompson384/Big-Data)
 Course assignments exploring data collection, processing, and analysis techniques
