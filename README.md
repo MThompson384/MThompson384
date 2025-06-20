@@ -42,7 +42,6 @@ I turn complex business data into actionable insights. Currently building analyt
 - **AI/ML:** TensorFlow, Neural Networks, Time Series Analysis
 
 **Business Intelligence:**
-- **Enterprise Systems:** SAP integration and optimization
 - **Financial Modeling:** FP&A, risk assessment, regulatory compliance
 - **Project Management:** Cross-functional team leadership, stakeholder communication
 
