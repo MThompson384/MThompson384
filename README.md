@@ -25,7 +25,7 @@ I turn complex business data into actionable insights. Currently building analyt
 ## 🎓 Education & Leadership
 
 **Master of Science in Business Analytics** | College of William & Mary
-- **Co-President, MSBA Council** - Leading student initiatives and industry partnerships
+- **Co-President, MSBA Council** - Leading student initiatives and primary liasion 
 
 **Bachelor of Business (Management)** | Norfolk State University
 - **VP of Membership Communication, Golden Key International Honour Society**
