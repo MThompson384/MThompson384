@@ -48,6 +48,7 @@ I turn complex business data into actionable insights. Currently building analyt
 
 
 ## 🎯 Featured Projects
+*A selection of key projects showcasing my technical skills and problem-solving approach*
 
 ### 🌱 [Production Sustainability Analytics Platform](https://github.com/MThompson384/Sustainability-Analytics)
 Netflix-style dashboard for entertainment industry sustainability tracking
@@ -77,8 +78,6 @@ Team analysis of AI impact in supply chain management
 - **Researched Bearing.AI** implementation and business impact
 - **Developed carbon emission calculator** for sustainability tracking
 - **Created comprehensive case study** with actionable recommendations
-
-
 
 ## 🌟 What Sets Me Apart
 
