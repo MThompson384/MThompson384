@@ -1,6 +1,6 @@
 # Hi, I'm Micah! 👋
 
-**Data Analyst & Financial Consultant** | **MS Business Analytics Candidate** | **Former EY Consultant**
+**Business Analyst & Financial Consultant** | **MS Business Analytics Candidate** | **Former EY Consultant**
 
 I turn complex business data into actionable insights. Currently building analytics platforms and excited to apply my skills across new industries and challenges.
 
